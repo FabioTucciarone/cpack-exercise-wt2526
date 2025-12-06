@@ -1,0 +1,5 @@
+cpackexample (0.1.0) unstable; urgency=low
+  [ Initial Package Release ]
+  * Added CPack configuration to create .deb and .tar.gz files.
+  * Added installation procedure to default paths.
+ -- Fabio Tucciarone <st177167@stud.uni-stuttgart.de>  Sat, 06 Dec 2025 16:30:00 +0100
